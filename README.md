@@ -16,6 +16,8 @@ This repository serves as a personal refresher on **Data Structures**, focusing 
 - **Stacks** Reading, adding , updating and removing elements to stacks based on the problem statements.
   <i>(To be added more)</i>
 
+- **Linked Lists**
+
 ## Contributing
 
 This is mainly for personal learning, but if you have suggestions or improvements, feel free to open an issue or a pull request!
